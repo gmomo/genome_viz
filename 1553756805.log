@@ -1,0 +1,23 @@
+Log File Start 
+
+Run time : 98.18621802330017
+Random Seed : 42
+Package Versions : 
+
+Scikit Allel Version : 1.2.0
+Sklearn Version : 0.20.3
+Numpy Version : 1.16.2
+Pandas Version : 0.24.1
+UMAP Version : 0.3.7
+PCA Parameters : 
+PCA(copy=True, iterated_power='auto', n_components=2, random_state=None,
+  svd_solver='auto', tol=0.0, whiten=False)
+UMAP Parameters : 
+UMAP(a=None, angular_rp_forest=False, b=None, init='spectral',
+   learning_rate=1.0, local_connectivity=1.0, metric='euclidean',
+   metric_kwds=None, min_dist=0.1, n_components=2, n_epochs=None,
+   n_neighbors=15, negative_sample_rate=5, random_state=None,
+   repulsion_strength=1.0, set_op_mix_ratio=1.0, spread=1.0,
+   target_metric='categorical', target_metric_kwds=None,
+   target_n_neighbors=-1, target_weight=0.5, transform_queue_size=4.0,
+   transform_seed=42, verbose=False)
