@@ -121,7 +121,7 @@ The tests are broken down for each module.
 
 #### Project Management
 
-The entire code would be written in Python and shared via Github. Commits will be made weekly. Any problem/obstacles will be shared with the mentor over weekly skype calls. The timeline is as follows. The incode documentation will be done alongwith coding the respective Modules.
+The entire code would be written in Python and shared via Github. Commits will be made weekly. Any problem/obstacles will be shared with the mentor over weekly skype calls. The timeline is as follows. The incode documentation will be done alongwith coding the respective Modules. 
 
 Start Date | End Date | Work Description
 ------------ | ------------- | -----------
@@ -134,5 +134,8 @@ July 17 | July 20 | Data Ouptut Module Test and Timing Measurements
 July 21 | August 13 | Tool Enhancements, Additional Visualizations ,
 August 14 | August 27 | End User Documentation 
 
+#### Test
 
+The test comprised of visualizing the genomic variations of a population cohort. The entire details can be found here. 
+[Proposal](https://github.com/gmomo/genome_viz)
 
