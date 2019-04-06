@@ -75,7 +75,7 @@ The proposed backend architecture comprises of three parts.
 
 3. Data Output Class - This class takes the processed data and sends it back to the front end for display. It also writes down the processed data files in a format specified from the front-end. Additionally, it also creates a log file for the entire operation. The output can be processed as numpy array written to a text or a csv file. The ouput image can also be saved via Bokeh to a PNG or JPG Format. The log file will be written as a text file by collecting all parameters of the classes.
 
-![Architecture Diagram](https://github.com/gmomo/genome_viz/blob/master/Architecture.png)
+![Architecture Diagram](Architecture.png)
 
 ##### Design Choices 
 
