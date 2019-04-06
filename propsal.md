@@ -100,7 +100,7 @@ Scikit-Allel provides almost all the functions we need to import genetic data. I
 
 The front end would enable the user to provide inputs such as file names , process parameters and output file formats, while also providing a visualization window of the genomic data. The front end would be designed as shown below. 
 
-![Sample Front End](https://github.com/gmomo/genome_viz/blob/master/Screen%20Shot%202019-04-04%20at%202.33.19%20PM.png)
+![Sample Front End](Screen%20Shot%202019-04-04%20at%202.33.19%20PM.png)
 
 The Front End would include options as follows.
 
